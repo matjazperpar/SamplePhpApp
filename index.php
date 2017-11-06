@@ -55,8 +55,9 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-8 mx-auto">
-              <h1 class="brand-heading">Grayscale</h1>
-              <p class="intro-text">A free, responsive, one page Bootstrap theme.
+              <h1 class="brand-heading">Hello Thrive Conference</h1>
+              <p class="intro-text">Your PHP application is now running on the host &ldquo;<?php echo gethostname(); ?>&rdquo; 
+                <br>This host is running PHP version <?php echo phpversion(); ?>.
                 <br>Created by Start Bootstrap.</p>
               <a href="#about" class="btn btn-circle js-scroll-trigger">
                 <i class="fa fa-angle-double-down animated"></i>
